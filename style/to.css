@@ -1,0 +1,14 @@
+h1{
+    color: rgb(201, 74, 74);
+    margin-left: 450px;
+    font-size: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+.task{
+    height: 300px;
+    padding-left: 500px;
+}
+
